@@ -3,6 +3,7 @@
 ## Project info
 
 **URL**: https://lovable.dev/projects/dc488285-bf4c-4d2b-b7e5-14e1a6f9c7d6
+**URL**: https://edustream-web-app.vercel.app/
 
 ## How can I edit this code?
 
